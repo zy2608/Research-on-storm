@@ -1,0 +1,1 @@
+/home/skompella/MERRA2/TE_data/TE_ready_MERRA2_198001.nc;/home/skompella/topo/MERRA2.topo.nc;/home/skompella/topo/MERRA2.topo.nc

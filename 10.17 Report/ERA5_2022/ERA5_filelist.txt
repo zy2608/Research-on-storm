@@ -1,0 +1,1 @@
+/data0/cl4460/ERA5_TE_ready_2022_whole_modified.nc;/home/cl4460/ERA5_2022/ERA5.topo.nc;/home/cl4460/ERA5_2022/ERA5.topo.nc
